@@ -62,3 +62,31 @@ a{
 	height:853px;
 	background-repeat:no-repeat;
 }
+.banner-top-a{
+	font-family:Microsoft YaHei;
+	font-size:60px;
+	color:red;
+	position:absolute;
+	top:280px;
+	left:120px;
+}
+.banner-top-b{
+	font-family:Microsoft YaHei;
+	font-size:21px;
+	color:red;
+	position:absolute;
+	top:370px;
+	left:130px;
+}
+[type=button]{
+	width:330px;
+	height:65px;
+	background-color:#e74f4d;
+	font-family:Microsoft YaHei;
+	font-size:30px;
+	color:#ffffff;
+	border:none;
+	position:absolute;
+	top:450px;
+	left:130px;
+}
