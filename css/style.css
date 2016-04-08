@@ -55,7 +55,7 @@ a{
 	color:#e7504d;
 	margin-left:5px;
 }
-.banner{
+.banner-top{
 	background-image:url(../images/03.png);
 	background-size:100% auto;
 	width:100%;
@@ -65,7 +65,7 @@ a{
 .banner-top-a{
 	font-family:Microsoft YaHei;
 	font-size:60px;
-	color:red;
+	color:#ffffff;
 	position:absolute;
 	top:280px;
 	left:120px;
@@ -73,7 +73,7 @@ a{
 .banner-top-b{
 	font-family:Microsoft YaHei;
 	font-size:21px;
-	color:red;
+	color:#ffffff;
 	position:absolute;
 	top:370px;
 	left:130px;
