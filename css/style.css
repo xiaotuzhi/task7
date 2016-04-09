@@ -52,14 +52,14 @@ a{
 }
 .banner-top{
 	background-image:url(../images/03.png);
-	background-size:100% 853px;
+	background-size:100%;
 	background-repeat:no-repeat;
 	margin-top:3px;
 }
 .banner-top-a{
 	font-family:Microsoft YaHei;
 	font-size:60px;
-	color:red;
+	color:#ffffff;
 	width:500px;
 	position:absolute;
 	top:280px;
@@ -69,7 +69,7 @@ a{
 	width:330px;
 	font-family:Microsoft YaHei;
 	font-size:21px;
-	color:red;
+	color:#ffffff;
 	position:absolute;
 	top:370px;
 	left:130px;
