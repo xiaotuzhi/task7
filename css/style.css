@@ -120,10 +120,33 @@ a{
 	left:90px;
 	border-right:1px solid #bbbbbb;
 }
-.a{
+.brief{
 	width:155px;
 	font-family:SimHei;
 	font-size:14px;
 	color:#767777;
 	text-align:center;
+}
+.section-2{
+	width:335px;
+	height:50px;
+	position:absolute;
+	top:133px;
+	left:323px;
+	border-right:1px solid #bbbbbb;
+}
+.section-3{
+	width:318px;
+	height:50px;
+	position:absolute;
+	top:133px;
+	left:658px;
+	border-right:1px solid #bbbbbb;
+}
+.section-4{
+	width:303px;
+	height:50px;
+	position:absolute;
+	top:133px;
+	left:977px;
 }
