@@ -50,8 +50,8 @@ a{
 	margin-left:5px;
 }
 .banner-top{
-	background-image:url(images/03.png);
-	background-size:100%;
+	background-image:url(../images/03.png);
+	background-size:100% auto;
 	height:853px;
 	background-repeat:no-repeat;
 }
@@ -125,6 +125,7 @@ a{
 	font-family:SimHei;
 	font-size:14px;
 	color:#767777;
+	margin-left:90px;
 	text-align:center;
 }
 .section-2{
