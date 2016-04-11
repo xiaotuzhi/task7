@@ -57,20 +57,18 @@ a{
 .banner-top-a{
 	font-family:Microsoft YaHei;
 	font-size:60px;
-	color:#ffffff;
+	color:red;
 	width:500px;
-	position:absolute;
-	top:280px;
-	left:120px;
+	margin-top:230px;
+	margin-left:120px;
 }
 .banner-top-b{
 	width:330px;
 	font-family:Microsoft YaHei;
 	font-size:21px;
-	color:#ffffff;
-	position:absolute;
-	top:370px;
-	left:130px;
+	color:red;
+	margin-top:11px;
+	margin-left:130px;
 }
 [type=button]{
 	width:330px;
@@ -80,9 +78,8 @@ a{
 	font-size:30px;
 	color:#ffffff;
 	border:none;
-	position:absolute;
-	top:450px;
-	left:130px;
+	margin-top:69px;
+	margin-left:130px;
 }
 .summary{
 	position:absolute;
