@@ -53,7 +53,8 @@ a{
 	background-image:url(../images/03.png);
 	background-size:cover;
 	background-repeat:no-repeat;
-	margin-top:57px;
+	position:absolute;
+	top:57px;
 }
 .banner-top-a{
 	font-family:Microsoft YaHei;
