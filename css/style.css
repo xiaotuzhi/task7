@@ -51,7 +51,7 @@ a{
 }
 .banner-top{
 	background-image:url(../images/03.png);
-	background-size:100% auto;
+	background-size:100% 853px;
 	background-repeat:no-repeat;
 	position:absolute;
 	top:57px;
