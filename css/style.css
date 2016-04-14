@@ -63,14 +63,15 @@ a{
 }
 .banner-top{
 	background-image:url(../images/03.png);
-	background-size:100% 853px;
+	background-size:100%；
+	height:853px;
 	position:absolute;
 	top:57px;
 }
 .banner-top-a{
 	font-family:Microsoft YaHei;
 	font-size:60px;
-	color:red;
+	color:#ffffff;
 	width:500px;
 	margin-top:230px;
 	margin-left:120px;
@@ -79,7 +80,7 @@ a{
 	width:330px;
 	font-family:Microsoft YaHei;
 	font-size:21px;
-	color:red;
+	color:#ffffff;
 	margin-top:11px;
 	margin-left:130px;
 }
@@ -98,7 +99,7 @@ a{
 .summary{
 	position:absolute;
 	top:747px;
-	background-color:red;
+	background-color:#ffffff;
 	background-size:100%;
 	height:250px;
 	display:block;
