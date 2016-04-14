@@ -3,8 +3,7 @@
 	padding:0;
 }
 body{
-	width:100%;
-	min-width:1360px;
+	width:1360px;
 }
 .header{
 	height:57px;
@@ -63,8 +62,7 @@ a{
 }
 .banner-top{
 	background-image:url(../images/03.png);
-	background-size:100%；
-	height:853px;
+	background-size:100%;
 	position:absolute;
 	top:57px;
 }
@@ -75,6 +73,7 @@ a{
 	width:500px;
 	margin-top:230px;
 	margin-left:120px;
+	margin-right:740px;
 }
 .banner-top-b{
 	width:330px;
@@ -125,9 +124,10 @@ a{
 	left:1104px;
 }
 .section-1{
-	width:25%;
+	width:323px;
 	height:50px;
-	margin-top:133px;
+	position:absolute;
+	top:133px;
 	border-right:1px solid #bbbbbb;
 }
 .brief-1{
@@ -139,10 +139,11 @@ a{
 	text-align:center;
 }
 .section-2{
-	width:25%;
+	width:335px;
 	height:50px;
-	margin-top:-50px;
-	margin-left:323px;
+	position:absolute;
+	top:133px;
+	left:323px;
 	border-right:1px solid #bbbbbb;
 }
 .brief-2{
@@ -154,7 +155,7 @@ a{
 	text-align:center;
 }
 .section-3{
-	width:25%;
+	width:319px;
 	height:50px;
 	position:absolute;
 	top:133px;
@@ -170,10 +171,11 @@ a{
 	text-align:center;
 }
 .section-4{
-	width:25%;
+	width:383px;
 	height:50px;
-	margin-top:-50px;
-	margin-left:977px;
+	position:absolute;
+	top:133px;
+	left:977px;
 }
 .brief-4{
 	width:153px;
