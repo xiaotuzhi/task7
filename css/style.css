@@ -235,13 +235,13 @@ a{
 	background-position:210px center;
 	background-repeat:no-repeat;
 }
-.country{
+[placeholder=中国]{
 	margin:0 40px 0 150px;
 }
-.province{
+[placeholder=省份]{
 	margin:0 40px 0 0;
 }
-.city{
+[placeholder=城市]{
 	margin:0 40px 0 0;
 }
 .button-2{
