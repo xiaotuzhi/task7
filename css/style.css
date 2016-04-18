@@ -198,3 +198,40 @@ a{
 	width:926px;
 	margin:45px 0 78px 20%;
 }
+.banner-middle{
+	background-image:url(../images/09.png);
+	background-size:100%;
+}
+.banner-middle-a{
+	font-family:Microsoft YaHei;
+	font-size:21px;
+	color:#ffffff;
+	text-align:center;
+	padding-top:53px;
+}
+.banner-middle-b{
+	background-color:#ffffff;
+	width:30px;
+	height:3px;
+	margin:10px 665px 0 665px;;
+}
+.banner-middle-c{
+	font-family:Microsoft YaHei;
+	font-size:12px;
+	color:#ffffff;
+	padding-top:19px;
+	padding-bottom:52px;
+	text-align:center;
+}
+[type=text]{
+	width:224px;
+	height:36px;
+	border:1px solid #be4e48;
+	font-family:Microsoft YaHei;
+	font-size:12px;
+	color:#a8aaaa;
+	background:url("../task7-images/33.png");
+	background-position:210px center;
+	margin:0 40px 0 200px;
+	padding-left:12px;
+}
