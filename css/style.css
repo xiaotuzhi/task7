@@ -253,3 +253,25 @@ a{
 	background-color:#be4e48;
 	border:none;
 }
+.banner-middle ul{
+	width:236px;
+	height:104px;
+	background-color:#e3e3e5;
+	font-family:Microsoft YaHei;
+	font-size:12px;
+	color:#323333;
+	line-height:26px;
+	list-style:none;
+	text-align:left;
+	border:1px solid #be4e48;
+	position:absolute;
+	top:1587px;
+	left:436px;
+}
+.banner-middle span{
+	color:#e3e3e5;
+}
+.banner-middle li:hover{
+	background-color:#be4e48;
+	color:#ffffff;
+}
