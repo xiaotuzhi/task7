@@ -231,7 +231,7 @@ a{
 	background-image:url(../images/33.png);
 	font-family:Microsoft YaHei;
 	font-size:12px;
-	font-color:#a8aaaa;
+	color:#a8aaaa;
 	background-position:210px center;
 	background-repeat:no-repeat;
 }
@@ -252,6 +252,7 @@ a{
 	color:#ffffff;
 	background-color:#be4e48;
 	border:none;
+	display:inline-block;
 }
 .banner-middle ul{
 	width:236px;
