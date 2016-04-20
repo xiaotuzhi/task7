@@ -276,3 +276,60 @@ a{
 	background-color:#be4e48;
 	color:#ffffff;
 }
+.activity{
+	background-color:#f8f8f8;
+	background-size:100%;
+	height:630px;
+}
+.activity img{
+	width:219px;
+	height:338px;
+}
+.activity-1{
+	height:389px;
+	width:219px;
+	padding-top:127px;
+	margin:0 36px 0 160px;
+}
+.activity-2{
+	height:389px;
+	width:219px;
+	margin:-389px 36px 0 418px;
+}
+.activity-3{
+	height:389px;
+	width:219px;
+	margin:-389px 36px 0 671px;
+}
+.activity-4{
+	height:389px;
+	width:219px;
+	margin:-389px 36px 0 926px;
+}
+.description-1{
+	color:#323333;
+	font-family:Microsoft YaHei;
+	font-size:17px;
+	text-align:center;
+	padding-top:12px;
+}
+.description-2{
+	color:#898a8a;
+	font-family:Microsoft YaHei;
+	font-size:14px;
+	text-align:center;
+	padding-top:5px;
+}
+.description-3{
+	color:#323333;
+	font-family:Microsoft YaHei;
+	font-size:22px;
+	text-align:center;
+}
+.description-4{
+	color:#898a8a;
+	font-family:Microsoft YaHei;
+	font-size:14px;
+	text-align:center;
+	padding:5px 0 5px 0;
+}
