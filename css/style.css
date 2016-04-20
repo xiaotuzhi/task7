@@ -223,7 +223,7 @@ a{
 	padding-bottom:52px;
 	text-align:center;
 }
-[type=text]{
+.find{
 	width:224px;
 	height:36px;
 	border:1px solid #be4e48;
